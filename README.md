@@ -27,7 +27,7 @@
 
 ---
 
-## 🇬🇧 English Description
+## English Description
 
 A **modern, minimal, and responsive** login form built with **HTML** and **CSS**.  
 This project is a clean and simple example of a login page, perfect for practicing front-end UI design and CSS skills.  
