@@ -1,6 +1,6 @@
 # 🌟 Modern-Login-Form
 
-(Preview.png)
+![Preview](Preview.png)
 
 ---
 
