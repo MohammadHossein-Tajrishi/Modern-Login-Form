@@ -21,8 +21,7 @@
 2. فایل `index.html` را با مرورگر باز کنید  
 3. برای تغییر رنگ‌ها، فونت‌ها یا افکت‌ها، فایل `style.css` را ویرایش کنید  
 
-### 🚀 پیش‌نمایش آنلاین
-اگر GitHub Pages فعال باشد:   
+### 🚀 پیش‌نمایش آنلاین   
 [![🚀 مشاهده آنلاین پروژه](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github)](https://mohammadhossein-tajrishi.github.io/Modern-Login-Form/)
 
 
