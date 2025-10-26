@@ -45,7 +45,8 @@ It can be used for personal projects, learning purposes, or as a base template f
 3. Edit `style.css` to customize colors, fonts, or effects  
 
 ### 🚀 Live Preview
-[🚀 مشاهده آنلاین پروژه](https://mohammadhossein-tajrishi.github.io/Modern-Login-Form/)
+[![🚀 مشاهده آنلاین پروژه](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github)](https://mohammadhossein-tajrishi.github.io/Modern-Login-Form/)
+
 
 
 ---
